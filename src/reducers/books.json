@@ -1,0 +1,18 @@
+[
+    {
+        "isbn":"1234",
+        "title":"Kitap 1",
+        "subtitle":"Subtitle 1",
+        "author":"Author 1",
+        "pages":"500",
+        "description":"Javascript"
+    },
+    {
+        "isbn":"5678",
+        "title":"Kitap 2",
+        "subtitle":"Subtitle 2",
+        "author":"Author 2",
+        "pages":"600",
+        "description":"React"
+    }
+]
